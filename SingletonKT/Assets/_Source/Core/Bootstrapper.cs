@@ -8,8 +8,7 @@ namespace Core
     {
         [SerializeField] private int startResources;
         [SerializeField] private ResourceAdder resourceAdderView;
-
-        private ResourceBank _resourceBank;
+        
 
         private void Awake()
         {
@@ -18,8 +17,7 @@ namespace Core
 
         private void SetupAll()
         {
-            _resourceBank = new ResourceBank(startResources);
-            resourceAdderView.Construct(_resourceBank);
+            _ = new ResourceBankSingleton(startResources);
         }
     }
 }
