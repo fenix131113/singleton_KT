@@ -1,0 +1,4 @@
+﻿{
+  "name": "Core",
+  "references":[ "GUID:5754e0a0baedbd74ebc13e6d50095802", "GUID:ce9b43df9bd540aaaf0f0dce2581ddc8" ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ResourceSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bfbe2e96d68898d4a9c3c80770726fd4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
